@@ -152,6 +152,12 @@ Tracking repeat customers, policy renewals and customer satisfaction metrics can
 ## Conclusion
 This dashboard enables data driven decision making and supports strategic business planning using interactive Power BI visualizations.
 
+
+## Interactive Dashboard Access
+
+🔗 Live Power BI Dashboard:
+[Open Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTdjYmYyZDYtY2ZhZi00YTkyLWE1ZmQtYTI0MjVmN2ZkMjhiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 ---
 
 ## Author
