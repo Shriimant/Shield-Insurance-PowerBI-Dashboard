@@ -86,7 +86,7 @@ The following DAX measures were created to support KPI tracking, trend analysis 
 
 ### Additional KPI Display Measures
 - Total Revenue Display
-- 
+  
 ---
 
 ## Dashboard Screenshots
