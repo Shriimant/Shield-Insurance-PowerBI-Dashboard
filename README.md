@@ -92,7 +92,7 @@ The following DAX measures were created to support KPI tracking, trend analysis 
 ## Dashboard Screenshots
 
 ### Home Page
-(Add Image)
+![image_alt](https://github.com/Shriimant/PowerBI-Hotel-Revenue-Insights-/blob/main/Home%20-%20Hospitality%20Domain.png)
 
 ### General View
 (Add Image)
