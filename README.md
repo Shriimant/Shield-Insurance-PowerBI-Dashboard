@@ -98,7 +98,7 @@ The following DAX measures were created to support KPI tracking, trend analysis 
 ![image_alt](https://github.com/Shriimant/Shield-Insurance-PowerBI-Dashboard/blob/main/General%20View.png)
 
 ### Sales Mode Analysis
-![image_alt](https://github.com/Shriimant/Shield-Insurance-PowerBI-Dashboard/blob/main/Home%20View.png)
+![image_alt](https://github.com/Shriimant/Shield-Insurance-PowerBI-Dashboard/blob/main/Sales%20Mode%20Analysis.png)
 
 ### Age Group Analysis
 ![image_alt](https://github.com/Shriimant/Shield-Insurance-PowerBI-Dashboard/blob/main/Home%20View.png)
